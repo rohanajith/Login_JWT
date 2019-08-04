@@ -1,0 +1,18 @@
+.App{
+	margin-left: 30%;
+	margin-top: 5%;
+}
+.message{
+	margin-left: 10%;
+	font-size: 30px;
+	color:red;
+}
+.display{
+	font-size: 60px;
+	color: green;
+	max-width: 40.75rem;
+	padding-left:20px; 
+  	background-color: #DFDFDF;
+	border-radius: 3px;
+  	box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
+}
